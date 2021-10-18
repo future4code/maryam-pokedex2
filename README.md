@@ -1,9 +1,9 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Érico Marshall  
+- Fábio Faria
+- Glauber Apolinário
 
 Link do Surge: www.link.com.br
 
